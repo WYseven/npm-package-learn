@@ -1,0 +1,12 @@
+{
+  "name": "arr-flatten-learn",
+  "version": "1.0.0",
+  "description": "扁平化一个到多个数组",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
